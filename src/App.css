@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.App {
+    font-family: "Sora", sans-serif;
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-family: "Sora", sans-serif;
+}
+
+input {
+    font-family: "Sora", sans-serif;
+    padding: 0.2rem 1rem;
+    font-size: 1.3rem;
+}
